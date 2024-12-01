@@ -1,4 +1,4 @@
-# 🎯 SlideX-React-Sample-Presentation
+# 🎯 SlidesFire
 
 A super-cool presentation framework built with React, Framer Motion, and TailwindCSS. Because PowerPoint is so 2005! 😎
 
