@@ -18,26 +18,18 @@ A super-cool presentation framework built with React, Framer Motion, and Tailwin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/dakssh/slidex-react.git
-cd slidex-react
+git clone https://github.com/DaksshDev/SlidesFire-React-Sample-Presentation
+cd SlidesFire-React-Sample-Presentation
 ```
 
 2. Install dependencies:
 ```bash
 npm install
-# or
-yarn
-# or
-pnpm install
 ```
 
 3. Start the development server:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
