@@ -14,7 +14,7 @@ A super-cool presentation framework built with React, Framer Motion, and Tailwin
 - 🎥 Fullscreen mode
 - 🎪 Floating blob backgrounds
 
-## 🚀 Getting Started
+## 🚀 Getting Started!
 
 1. Clone this repository:
 ```bash
